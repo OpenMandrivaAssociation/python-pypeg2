@@ -2,7 +2,7 @@
 
 Name:		python-pypeg2
 Version:	2.15.2
-Release:	3
+Release:	4
 Summary:	A PEG Parser-Interpreter in Python
 
 License:	GPLv2
