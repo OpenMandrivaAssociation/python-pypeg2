@@ -6,7 +6,7 @@ Release:	4
 Summary:	A PEG Parser-Interpreter in Python
 
 License:	GPLv2
-URL:		http://fdik.org/pyPEG
+URL:		https://fdik.org/pyPEG
 Source0:	https://pypi.python.org/packages/source/p/%{srcname}/%{srcname}-%{version}.tar.gz
 
 BuildArch:  noarch
